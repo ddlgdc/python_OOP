@@ -1,0 +1,6 @@
+# Comment line
+pear
+carrot
+
+kale
+# Another comment
